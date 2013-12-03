@@ -1,0 +1,27 @@
+{
+  "name": "mailpermutator",
+  "version": "0.1.0",
+  "description": "generate permutations of name, surname, domain for email",
+  "main": "mailpermutator.coffee",
+  "dependencies": {
+    "coffee": "0.0.1",
+    "underscore": "~1.5.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "mailpermutator.coffee pippo franco @bagaglino.it"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/deddu/email-permutator"
+  },
+  "keywords": [
+    "email",
+    "permutations"
+  ],
+  "author": "Andrea Cadeddu",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/deddu/email-permutator/issues"
+  }
+}
